@@ -1,15 +1,15 @@
-﻿kgussan@gmail.com
-2014/09/10 16:53:44
+kgussan@gmail.com
+2014/09/10
 Copyright(c) 2014 KGussan
 
 MITライセンスに準じます。
 一部のコードは同じくMITライセンスのgitholeさんのコードを基にしています。
 このソフトウェアに関する損害は補償されません。ライセンス関係の文言を残せば再配布・改変が可能です。
+wavefront obj の読み込みはnate robisさんによるglmを基にして開発したoflライブラリを使っています。
 
 This code is released under MIT license.
-A part of the code is based on githole photon mapping code
-which is also under the same license.
-THIS SOFTWARE IS PROVIDED BY NATE ROBINS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL NATE ROBINS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+A part of the code is based on githole photon mapping code which is also under the same license.
+A part of the code is based on nate robins glm code. Detail is written at the code.
 
-この文章のほか、日本語のプログラム説明文書があります。
+日本語のプログラム説明があります。
 
