@@ -1,0 +1,27 @@
+﻿2014/09/10 16:48:06 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\src\photonMappingTrunk.vcxproj" (build ターゲット)。
+     1>PrepareForBuild:
+         ディレクトリ "C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\" を作成しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\kgPhotonMapping.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\kgPhotonMapping.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\\Lib\x86" d3d11.lib d3dx11.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\kgPhotonMapping.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\kgPhotonMapping.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\kgPhotonMapping.lib" /MACHINE:X86 Debug\kgbmp.obj
+         Debug\kgalgebra.obj
+         Debug\kgtga.obj
+         Debug\kgtime.obj
+         Debug\ofl.obj
+         Debug\hdrImage.obj
+         Debug\main.obj
+         photonMappingTrunk.vcxproj -> C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\kgPhotonMapping.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\Debug\kgPhotonMapping.exe;#1" /manifest Debug\kgPhotonMapping.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Debug\kgPhotonMapping.unsuccessfulbuild" を削除しています。
+         "Debug\kgPhotonMapping.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\koguchi\Google ドライブ\イベント\レイトレ合宿\kgPhotonMapping\src\photonMappingTrunk.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.42

@@ -1,0 +1,13 @@
+frame width 1920 height 1080 
+photon_num 300000 
+gahter_max_photon_num 8 
+gather_photon_radius 100.000000 
+gammaCorrectionEnable 1 (powf( image[image_index].x, 1.0f/2.2f )) 
+kRayTracingMaxBounds 4 
+kRayTracingRRBounds 4 
+OPENMP_ENABLE 1 
+light id 0 size 7.50 emission 12.00 12.00 12.00 
+light pos 20.00 90.00 0.00 
+camera pos -20.00 110.00 90.00 
+camera dir 0.10 -0.29 -0.95 
+frameState 0.00 0.00 -0.95 10.00 1000.00 
