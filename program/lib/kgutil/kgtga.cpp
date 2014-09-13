@@ -1,4 +1,4 @@
-// nehe を参考に実装。
+// nehe より。
 #include "kgtga.h"
 
 namespace nsTga{

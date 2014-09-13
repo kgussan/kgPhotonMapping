@@ -1,0 +1,153 @@
+frame width 1920 height 1080 
+photon_num 300000 
+gahter_max_photon_num 8 
+gather_photon_radius 100.000000 
+gammaCorrectionEnable 1 (powf( image[image_index].x, 1.0f/2.2f )) 
+kRayTracingMaxBounds 4 
+kRayTracingRRBounds 4 
+OPENMP_ENABLE 1 
+light id 0 size 7.50 emission 12.00 12.00 12.00 
+light pos 20.00 90.00 0.00 
+camera pos -20.00 110.00 90.00 
+camera dir 0.10 -0.29 -0.95 
+frameState 0.00 0.00 -0.95 10.00 1000.00 
+================================
+total                      time, 19233, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19233, ms 
+================================
+total                      time, 20043, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20043, ms 
+================================
+total                      time, 20490, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20490, ms 
+================================
+total                      time, 20131, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20131, ms 
+================================
+total                      time, 19236, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19236, ms 
+================================
+total                      time, 20040, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20040, ms 
+================================
+total                      time, 19681, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19681, ms 
+================================
+total                      time, 20028, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20028, ms 
+================================
+total                      time, 20086, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20086, ms 
+================================
+total                      time, 19649, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19649, ms 
+================================
+total                      time, 19670, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19670, ms 
+================================
+total                      time, 19265, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19265, ms 
+================================
+total                      time, 20020, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20020, ms 
+================================
+total                      time, 19592, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19592, ms 
+================================
+total                      time, 20011, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20011, ms 
+================================
+total                      time, 19224, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19224, ms 
+================================
+total                      time, 19664, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19664, ms 
+================================
+total                      time, 20087, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 20087, ms 
+================================
+total                      time, 19663, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19663, ms 
+================================
+total                      time, 19678, ms 
+
+photon tracing             time, 0, ms 
+generating KDtree          time, 0, ms 
+tiled photonDB creation    time, 0, ms 
+photon sampling and render time, 19678, ms 

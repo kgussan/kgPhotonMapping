@@ -29,12 +29,10 @@ void DumpBmp24( unsigned char *buf,
 	bmpinfoheader[10] = (unsigned char)(       height>>16);
 	bmpinfoheader[11] = (unsigned char)(       height>>24);
 
-	//f = fopen(fn,"wb");
 	fopen_s( &f, fn,"wb");
 	fwrite(bmpfileheader,1,14,f);
 	fwrite(bmpinfoheader,1,40,f);
 	for(uint32_t i=0; i<height; i++){
-		//fwrite(buf+(width*(height-i-1)*3),3,width,f);
 		fwrite(buf+(width*(i)*3),3,width,f);
 		fwrite(bmppad,1,(4-(width*3)%4)%4,f);
 	}

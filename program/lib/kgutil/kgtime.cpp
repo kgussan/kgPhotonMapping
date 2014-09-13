@@ -133,5 +133,4 @@ uint32_t GetTimeCount(void)
 #endif
 }
 
-
 }//nsKg
