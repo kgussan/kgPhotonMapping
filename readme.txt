@@ -1,19 +1,28 @@
-﻿kgussan@gmail.com
-2014/09/10 16:53:44
+﻿kgPhotonMapping
+kgussan@gmail.com
+2014/09/13
 Copyright(c) 2014 KGussan
+================================================================
 
+日本語のプログラム説明文書があります。
+slide share
+http://www.slideshare.net/ssuser2e676d/kg-photonmapping-v010
+
+intel ノートPCなどではGPU動作が不安定になることがあります。
+ドライバが失敗することもあるかもしれませんが、
+待っているとwindows が復帰するはずです。
+
+hlslはfxcコンパイラを使ってバイナリ形式に変更してください。
+ランタイムコンパイルはうまくいきません。
+
+----------------------------------------------------------------
+ライセンス
 MITライセンスに準じます。
 一部のコードは同じくMITライセンスのgitholeさんのコードを基にしています。
-このソフトウェアに関する損害は補償されません。ライセンス関係の文言を残せば再配布・改変が可能です。
+このソフトウェアに関する損害は補償されません。
+ライセンス関係の文言を残せば再配布・改変が可能です。
 
 This code is released under MIT license.
 A part of the code is based on githole photon mapping code
 which is also under the same license.
-THIS SOFTWARE IS PROVIDED BY NATE ROBINS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL NATE ROBINS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-この文章のほか、日本語のプログラム説明文書があります。
-http://www.slideshare.net/ssuser2e676d/kg-photonmapping-v010
-
-ここに書いていないこととしては、
-intel ノートPCなどではGPU動作が不安定になることがあります。
-待っていると復帰するはずです。
