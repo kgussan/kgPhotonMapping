@@ -4,6 +4,10 @@ kgussan@gmail.com
 Copyright(c) 2014 KGussan
 ================================================================
 
+HLSL Compute shaderのシンプルなフォトンマッピングのGPU実装です。
+1レイ1スレッドでフォトントレーシングを行い、
+1ピクセル1スレッドでフォトンサンプリング、放射輝度計算を行います。
+
 日本語のプログラム説明文書があります。
 slide share
 http://www.slideshare.net/ssuser2e676d/kg-photonmapping-v010
